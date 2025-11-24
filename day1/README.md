@@ -9,3 +9,5 @@ What I learnt today:
 4. Understood the Terraform workflow: init → validate → plan → apply → destroy.
 
 5. Set up the Terraform environment and prepared to start hands-on from Day 1.
+
+Blog link: https://hashnode.com/post/cmid4hs0c000f02jy0hiofewd
